@@ -1,0 +1,14 @@
+# *
+User-agent: *
+Disallow: /404
+
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://kuty.me/
+
+# Sitemaps
+Sitemap: https://kuty.me/sitemap.xml
+Sitemap: https://kuty.me/server-sitemap.xml
